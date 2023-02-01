@@ -7,8 +7,8 @@ Software Developer Student.
 I'm a second year IT student, currently pursuing Mobile Solutions as my professional major.
 
 * 🌍  I'm based in Espoo
-* ✉️  You can contact me at [larranagaainara@gmail.com](mailto:larranagaainara@gmail.com)
 * 🧠  I'm learning React Native
+* 📫  How to reach me: [linkedin profile](linkedin.com/in/ainara-larranaga-flores)
 
 ### Skills
 
@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ✉️  You can contact me at [larranagaainara@gmail.com](mailto:larranagaainara@gmail.com)
 -->
