@@ -8,7 +8,7 @@ I'm a second year IT student, currently pursuing Mobile Solutions as my professi
 
 * 🌍  I'm based in Espoo, Finland
 * 🧠  Currently learning React Native
-* 🤔  I’m looking for an internship to gain experience and deploy my programming skills
+* 🤔    I’m looking for an internship to gain experience and deploy my programming skills
 
 
 ### Skills
