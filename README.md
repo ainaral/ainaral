@@ -8,6 +8,7 @@ I'm a second year IT student, currently pursuing Mobile Solutions as my professi
 
 * 🌍  I'm based in Espoo
 * 🧠  I'm learning React Native
+* 📫   How to reach me: [linkedin profile](https://wwww.linkedin.com/in/ainara-larranaga-flores)
 
 
 ### Skills
