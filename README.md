@@ -7,7 +7,7 @@ Software Developer Student.
 I'm a second year IT student, currently pursuing Mobile Solutions as my professional major.
 
 * 🌍  I'm based in Espoo, Finland
-* 🧠  Currently learning SwiftUI
+* 🧠  Currently learning Swift
 * 🤔    I’m looking for an internship to gain experience and deploy my programming skills
 
 
